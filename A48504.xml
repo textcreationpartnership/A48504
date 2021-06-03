@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Lillies nevv prophesie of a general peace Together with the uniting of all different persuasions of religion, in principles of love and mutual condiscention. To which is added a strange and wonderful prophesie lately discovered in Holland, relating to the grand affairs of our present age. Faithfully translated &amp; communicated from the original by a person of quality.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48504</idno><idno type="EEBO-CITATION">99828419</idno>
+  <idno type="VID">32846</idno>
+  <idno type="EEBO-PROQUEST">2240857740</idno>
+  
+            <idno type="STC">Wing L2229</idno>
+            <idno type="STC">ESTC R216697</idno>
+            <idno type="PROQUEST">99828419</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828419e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32846)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1913:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Lillies nevv prophesie of a general peace Together with the uniting of all different persuasions of religion, in principles of love and mutual condiscention. To which is added a strange and wonderful prophesie lately discovered in Holland, relating to the grand affairs of our present age. Faithfully translated &amp; communicated from the original by a person of quality.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.B.,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>in the year, 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by Wing.</note>
+                  <note>'A person of quality' is not identified.</note>
+                  <note>With title page woodcut.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Peace --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+               <term type="topical_term">Predictive astrology --  Early works to 1800.</term>
+               <term type="topical_term">Religious tolerance --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Netherlands --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32846:1"/>
+            <p>M<seg rend="sup">r.</seg> LILLIES Nevv PROPHESIE Of a General PEACE.</p>
+            <p>Together with the Uniting of all Different Persuasions of Religion, in Principles of Love and Mutual Condiscention.</p>
+            <p>To which is added a Strange and Wonderful PROPHESIE lately Discovered in HOLLAND, Relating to the Grand Affairs of our Present Age.</p>
+            <p>
+               <hi>Faithfully translated &amp; Comunicated from the Original by a person of quality.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of royal imagery</figDesc>
+            </figure>
+            <p>Printed for <hi>M.B.</hi> in the Year, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32846:2"/>
+            <pb facs="tcp:32846:2"/>
+            <head>M<seg rend="sup">r.</seg> LILLIES NEW PROPHESIE Concerning a General Peace.</head>
+            <p>HOw dismally embroil'd the Affairs of <hi>Europe</hi> have been in these very days wherein we Live, cannot be wholly unknown to any intelligent man: and that those Commotions were Judgments and ca<g ref="char:EOLhyphen"/>lamities inflicted by the just hand of Heaven, on Rebellious Mortals for their repeated Sins, and multiplied Transgressions will readily be assented unto by all that have any sence of Re<g ref="char:EOLhyphen"/>ligion, or awe of a Deity upon their Spirits.</p>
+            <p>But the natural Grounds, or Dispositions of the Celestial Bodies, which like Mediate Links in the grand chain of secon<g ref="char:EOLhyphen"/>dary Causes, have produced, or at least Co-operated in the production of these Martial Disturbances, or the extraordi<g ref="char:EOLhyphen"/>nary <hi>Phanomina</hi> which merciful Providence makes use of to presignifie its pleasure therein, and like Beacons to admonish the World of such impending Chastisements, cannot but cer<g ref="char:EOLhyphen"/>tainly deserve our more curious Observation and Enquiries, of this sort the most Judicious Scrutators with much Reason Assign.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:32846:3"/>1. That wonderful new Star, which to the great amaze<g ref="char:EOLhyphen"/>ment of the World manifested it self in the Constellation of <hi>Cassiopeia,</hi> in the Year, 1572.</p>
+            <p n="2">2. The several Comets, whose significations are not yet totally accomplished, as that in the Year, 1652. Three more in the Year 1665. and one since, not much above a Year and a half last past.</p>
+            <p n="3">3. The Conjunction of the two Superiours, <hi>Saturn</hi> and <hi>Jupiter, Anno.</hi> 1663. in <hi>Sagitary,</hi> and five opinions between them lately.</p>
+            <p>Lastly, The Revolutions and other Cardinal Ingresses of the present and ensuing Year; together with the Eclipses, and most forcible Aspects therein happening.</p>
+            <p>Concerning the Famous New-Star first mentioned, divers excellent persons in that Age obliged the World both with their Observations and Sentiments of its Effects or Sig<g ref="char:EOLhyphen"/>nifications, but none so happily as the incomparable <hi>Ty<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o Bra<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> who taking it for granted that the same was purposely Created for the manifestation of future Events and Presaging of some strange <hi>Catastrophes</hi> to happen, concludes, that a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the said Star was visible almost to all the World, so few Nations or Countries between the <hi>Artick</hi> and <hi>Antartick</hi> Poles should escape without being sensible more or lesse of the Calamities and Disorders thereby threatned; and because it continued fixed during all the time of its appearance: That therefore the Portents thereof would be long before they manifested themselves, or were brought into Action; whence it was thought reasonable to assign about one Century or hundred Years before their Commencement; which term is now expi<g ref="char:EOLhyphen"/>red: <hi>Viz.</hi> In the Year, 1672. And what grand Actions have since appeared, both by Land and Sea on the <hi>European</hi> Stage, is sufficiently notorious; though the full determina<g ref="char:EOLhyphen"/>tion of those mutations, it was to be the Prodromus of can<g ref="char:EOLhyphen"/>not be expected for some Years yet to come: for since, we Read not in any Authour of such an admirable Star, or of such continuance since the beginning of the world besides it,
+<pb n="5" facs="tcp:32846:3"/> so must certainly its significations be equally miraculous, and such as Mankind hath yet been scarce acquainted with: The particular Nature of which the same worthy Authour tells us. <hi>Praecipium quandam &amp; maximam Administrationum, Politica<g ref="char:EOLhyphen"/>rum, Innevationem,</hi> Innovations in the establisht or accu<g ref="char:EOLhyphen"/>stomed policies of several Nations, and turning Empires and Kingdoms topsy-turvy.</p>
+            <p>As to the effects of that Commet in 1652. Those in 1665, and this of 167<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. As <hi>Europe</hi> in General, and our own Nation in particular, have been sufficiently sensible thereof; so can<g ref="char:EOLhyphen"/>not we positively assert the same to be determined, but at present on the anvil of Fate, and in succeeding years like to be more visible, even till most part of the habitable <hi>Globe,</hi> shall in one kind or other, have partaken of much affliction, and such Calamities as no age hath seen the like, amongst which the last of those Commets in <hi>April</hi> 1665. having a long and large red fiery Tail pointed directly <hi>East-ward,</hi> threatning more especially those Countries of the United provinces▪ <hi>Spanish-Netherlands,</hi> part of <hi>Germany,</hi> and places adjacent.</p>
+            <p>Of the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in 1663. An ac<g ref="char:EOLhyphen"/>curate Treatise has been already emitted into the World by Mr. <hi>Richard Ealin,</hi> nor should we have wanted another by the same judicious pen, on the late oppositions of these Su<g ref="char:EOLhyphen"/>periors, did not the sordid self-interests of some narrow-soul'd people strangle for want of Midwifry, what the Author has long since happily conceived. However in his <hi>Praenunciu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ere▪</hi> speaking of the Year 1674. from a Conjunction of <hi>Saturn</hi> and <hi>Mars,</hi> he predicts much damage, disgrace, or de<g ref="char:EOLhyphen"/>triment differences, and at last that the Moon to a trine of the Sun by direction denotes a discovery of some important af<g ref="char:EOLhyphen"/>fairs, that long have l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in maskt in obscurity, Kings and their Subjects shall better agree, and Spirits heretofore factious, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>bulent and unsetled, shall become conformable and more obedient to their Superiors.</p>
+            <pb n="6" facs="tcp:32846:4"/>
+            <p>That most Industrous and able <hi>Mathematician,</hi> Mr. <hi>Henry Coley,</hi> which equal modesty and reason gives this breif, yet discreet Judgement, on this vernal figure, in his <hi>Nuncius Cae<g ref="char:EOLhyphen"/>listis,</hi> or Almanack for the said Year, 1674. <hi>The year</hi> (says he there) <hi>by the position to be no way considerably dangerous for any contagious distemper that may Tyrannize amongst the People, but rather a serene Air and Salubrity in general: nor do I discover any considerable injury or danger from our most potent enemies accord<g ref="char:EOLhyphen"/>ing to the stream of natural causes:</hi> For which he subjoyns his reasons in Art, <hi>Sol</hi> being in the ascendant, &amp;c.</p>
+            <p>We further say, and probably conjecture according to the acute Judgment of <hi>Tyche,</hi> and other Learned men, upon this new Star before mentioned in <hi>Cassiopeia,</hi> that when its effects begin to operate (as for these some years past they have done, after many sharp wars had and determined or ended, that then the World shall find and enjoy quietness such as yet hath not been in any age, <hi>Pacificum quodam &amp; concors saeculum aliquam diu futurum.</hi> A most peaceable or quiet age or world shall be in all parts of the earth. <hi>In quo politicarum administrationum, &amp;c.</hi> Wherein the Tumultuary Confusions in Politick and Religious administrations shall be changed or quite altered, and be fit<g ref="char:EOLhyphen"/>ed to a more conform Analogy of the divine Will or Truth: To which give us leave to add that memorable prediction de<g ref="char:EOLhyphen"/>livered more than one hundred years since by that famous Astrologer <hi>Hieromymus Cardanus,</hi> that about the year 1680. <hi>Incipiet mutatio Lignum, cui nunquam fuit si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iles, &amp; consurget nova L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x &amp; cum his alia multa; There shall in some parts begin an alteration of Laws, the like whereof was never before, and a new Law shall arise or be establisht, and with it many other thing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>To these Predictions of the Judicious Mr. <hi>Lilly,</hi> faithfully taken out of his published Labours: we have thought conve<g ref="char:EOLhyphen"/>nient to add a strange and wonderful Prophesie remarkably found of late in the Low-countries, a transcript thereof being Communicated by a Person of Quality there, to his Cor<g ref="char:EOLhyphen"/>respondent, the rather for that the same seems conformable to the Sentiments before repeated of our said worthy English <hi>Merlin.</hi>
+            </p>
+            <pb n="7" facs="tcp:32846:4"/>
+            <p>The best account we yet have, how the ensuing Prophesie was first found out is thus.</p>
+            <p>That upon the dismantling a small Fort in the Province of <hi>Ʋtrech</hi> when the same was some time since quited by the <hi>French</hi> Troops, there was found in the ruines of an old wall a kind of stone Chest or Trough, which being broken opon in expecta<g ref="char:EOLhyphen"/>tion of some great treasure, they found not<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing within the same, but a curious piece of Black Marble, on which was en<g ref="char:EOLhyphen"/>graved about thirty lines in large old-fashioned <hi>Roman</hi> Cha<g ref="char:EOLhyphen"/>racters, which being presented to some Antiquaries, after much pains they were able to read it, and found the Langu<g ref="char:EOLhyphen"/>age to be ancient Language; whereupon they took Copies, one of which is said to have been sent over last Post, and runs, be<g ref="char:EOLhyphen"/>ing translated into <hi>English</hi> as follows.</p>
+            <p>In the Extremities of Time, or towards the last Ages of the World, when the wickedness of mortals shall have over<g ref="char:EOLhyphen"/>spread the face of the Globe, as with Leprosie, and all things in the Universe be drooping into the Chaos of desolate Con<g ref="char:EOLhyphen"/>fusions, violent Storms shall happen in the intellectual World, between good and bad Angels, Storms in the Celestial world, where Superiours shall in short space have five pitcht Battels, Storms in the Elementary World, opening the bottles of Hea<g ref="char:EOLhyphen"/>ven to deluge the Earth with excessive Floods and Inundati<g ref="char:EOLhyphen"/>ons, Storms in the Macrocosme, Nations rushing against Nati<g ref="char:EOLhyphen"/>on, and sparks of Ambition blown by Cacodoemons into flames, laying the fruitful Regions wast, Storms in the Microcosm, every man at War within himself, Passions against Passions, and Reason against them all: the heart and the brain are faln out, and there wants a good Liver to make them friends. In brief, the Planets start from their Orbs: every Kingdom be<g ref="char:EOLhyphen"/>comes Antipodes to it self, and <hi>Primum Mobile</hi> runs Retro<g ref="char:EOLhyphen"/>grade. About that time a long exploded Faction begins to lift up its head, creeping forth like a Panther, but is blasted with Lightning, and some Stars of the first Magnitude suffer
+<pb n="8" facs="tcp:32846:5"/> an Eclipse by the Pleiades; many fears and terrors surprize mens Souls, but Jove pittying Humane Calamities, puts a period to those disorders; yet after <hi>Ae<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lus</hi> has sounded a retreat to the winds, the Waves still run high, and some ship<g ref="char:EOLhyphen"/>wracks happen; till Nations in general wearied with War, shall greedily desire Peace, and Court the Queen of the Isles to bestow a blessing on Christendom: Then shall Astrea re<g ref="char:EOLhyphen"/>turn to Earth, and the minds of men be composed in bands of Duty, and Love towards each other, even till the Sun shall be ashamed of Light, and the World confess its ashes; when the Ancient of Days shall call to the universal Account; where only those in the white Robe shall be happy.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32846:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
